@@ -27,3 +27,17 @@ m — Show memory region information
 w — Write a new string to saved addresses
 
 q — Quit
+
+
+### Example Usage
+
+**Memory Scanning**
+
+![Memory Scanning](example1.png)
+
+**Memory Modification**
+
+![Memory Modification](example2.png)
+
+### Note
+This project was created for learning Windows process memory operations using the Win32 API. Use it only on processes you own or have permission to test.
